@@ -40,7 +40,7 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type             | Default | Description |
 | ------------- |:----------------:| :------:| - |
-| blog_id       | number           | -       | - |
+| blogid        | number           | -       | - |
 | order         | enum (asc, desc) | asc     | - |
 | limit         | number           | 5       | - |
 | pages         | number           | 1       | - |
@@ -51,7 +51,7 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type                      | Default   | Description |
 | ------------- |:-------------------------:| :--------:| - |
-| blog_id       | number                    | -         | - |
+| blogid        | number                    | -         | - |
 | order         | enum (published, updated) | published | - |
 | limit         | number                    | 5         | - |
 | pages         | number                    | 1         | - |
@@ -66,7 +66,7 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type                      | Default   | Description |
 | ------------- |:-------------------------:| :--------:| - |
-| blog_id       | number                    | -         | - |
+| blogid        | number                    | -         | - |
 | order         | enum (published, updated) | published | - |
 | limit         | number                    | 5         | - |
 | pages         | number                    | 1         | - |
@@ -81,7 +81,7 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type                      | Default   | Description |
 | ------------- |:-------------------------:| :--------:| - |
-| blog_id       | number                    | -         | - |
+| blogid        | number                    | -         | - |
 | isjson        | boolean                   | false     | - |
 
 ## All Posts
@@ -90,7 +90,7 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type                      | Default   | Description |
 | ------------- |:-------------------------:| :--------:| - |
-| blog_id       | number                    | -         | - |
+| blogid        | number                    | -         | - |
 | order         | enum (published, updated) | published | - |
 | limit         | number                    | 5         | - |
 | pages         | number                    | 1         | - |
@@ -105,5 +105,5 @@ now -e BLOG_ID="6732289991114793651"
 
 | Query         | Type                      | Default   | Description |
 | ------------- |:-------------------------:| :--------:| - |
-| blog_id       | number                    | -         | - |
+| blogid        | number                    | -         | - |
 | isjson        | boolean                   | false     | - |
