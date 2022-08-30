@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.16.4",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "request": "^2.88.0"
   },
   "devDependencies": {
